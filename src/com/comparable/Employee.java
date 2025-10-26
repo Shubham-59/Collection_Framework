@@ -1,4 +1,4 @@
-package com.comp.sortBy.treemap;
+package com.comparable;
 
 public class Employee implements Comparable<Employee> {
 	int id;

@@ -1,4 +1,4 @@
-package com.comp.sortBy.treemap;
+package com.comparable;
 
 import java.util.ArrayList;
 import java.util.Collections;

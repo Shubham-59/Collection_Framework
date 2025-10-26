@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	 hs.add(30);
 	 hs.add(10);
 	 hs.add(null);
+	 hs.add(null);//double null value isn't allow 
 	 System.out.println(hs.isEmpty());
 	 System.out.println(hs.contains(30));
 	 hs.forEach(l->System.out.println(l));

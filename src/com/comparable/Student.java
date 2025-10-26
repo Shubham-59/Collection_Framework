@@ -1,4 +1,4 @@
-package com.comp;
+package com.comparable;
 
 public class Student implements Comparable<Student> {
 
